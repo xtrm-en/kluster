@@ -2,7 +2,7 @@
 A [FOSS](https://www.freeopensourcesoftware.org/index.php/Main_Page) replacement for the decade-old amateur radio software [AR-Cluster](http://www.nc7j.com/arcluster/arusermanual-6/), written in [Kotlin](https://kotlinlang.org). 
 
 ### Original Copyrights
-Since the original [AR-Cluster](http://www.nc7j.com/arcluster/arusermanual-6/) project hasn't been updated in 10 years and is now dormant, I hope me releasing this project is okay with the maintainers of the project. If not, my contact informations are on my [GitHub profile](https://github.com/xtrm-en) and I could take this repository down.
+Since the original [AR-Cluster](http://www.nc7j.com/arcluster/arusermanual-6/) project hasn't been updated in 10 years and is now dormant, I hope me releasing this application is okay with the maintainers of the original project. If not, my contact informations are on my [GitHub profile](https://github.com/xtrm-en) and I could take this repository down.
 
 ## Why?
 My dad needed to run [AR-Cluster](http://www.nc7j.com/arcluster/arusermanual-6/) on a Raspberry PI and the original software was only available as a Windows .NET executable.
